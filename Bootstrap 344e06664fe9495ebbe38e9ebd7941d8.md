@@ -1,6 +1,6 @@
 # Bootstrap
 
-# What Is Bootstrap?
+## What Is Bootstrap?
 
 Bootstrap is an open source product from Mark Otto and Jacob Thornton who, when
 it was initially released, were both employees at Twitter. There was a need to standardize
