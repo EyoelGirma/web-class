@@ -1,6 +1,6 @@
 # HTML and CSS
 
-# HTML and CSS
+## HTML
 
 HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets) are two essential web development technologies used to create visually appealing and interactive web pages. HTML provides the structure and content of a website while CSS controls the presentation and style.
 
